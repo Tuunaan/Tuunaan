@@ -1,4 +1,4 @@
-# Hello, This is Humayera Tabassum Tunan. I am currently studying Computer Science and Engineering at BRAC University. 
+# 💫 Hello, This is Humayera Tabassum Tunan.✨ I am currently studying Computer Science and Engineering at BRAC University.
 
 
 # 💻 Tech Stack:
